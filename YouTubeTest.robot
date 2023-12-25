@@ -15,7 +15,7 @@ Open Browser
     Open Browser     ${SERVER}   ${BROWSER} 
     Maximize Browser window
     Sleep   5s
-    Input text       //*[@type="text"]          Money Lisa
+    Input text       //*[@type="text"]          ชินจัง
     Click Element       css:#search-icon-legacy       
     Sleep   2s 
     Capture page Screenshot         pic.png
