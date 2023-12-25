@@ -14,7 +14,7 @@ ${Empty}
 Open Browser 
     Open Browser     ${SERVER}   ${BROWSER} 
     Maximize Browser window
-    Sleep   10s
+    Sleep   5s
     Input Text       //*[@id="search"]         Lisa
     Click Element       //*[@id="search-icon-legacy"]
     Sleep   2s 
