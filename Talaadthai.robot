@@ -429,7 +429,7 @@ Enable - EM - Central area
 
 Disable - EM - Central area
     Log    Element is disabled
-    #Capture page Screenshot
+    # Capture page Screenshot
     Sleep  3s
 
 Enable - WM - Central area
@@ -439,5 +439,5 @@ Enable - WM - Central area
 
 Disable - WM - Central area
     Log    Element is disabled
-    #Capture page Screenshot
+    # Capture page Screenshot
     Sleep  3s
